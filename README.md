@@ -12,4 +12,4 @@ Tutorial 3: Laravel 8 Eloquent CRUD Web Application Tutorial I
 https://sgwebfreelancer.medium.com/laravel-8-eloquent-crud-web-application-tutorial-3faf9cfed70a
 
 Tutorial 4: Laravel 8 Eloquent CRUD Web Application Tutorial II
-http://sgwebfreelancer.site/2020/12/laravel-8-crud-web-application-tutorial-ii/
+https://sgwebfreelancer.medium.com/laravel-8-eloquent-crud-web-application-tutorial-ii-986fc52df13e
